@@ -1,0 +1,14 @@
+/* Global */
+body {
+  font-family: 'Roboto', sans-serif; /* Police principale moderne */
+  background-color: #FFFAE1; /* Jaune pastel doux */
+  color: #333; /* Texte noir pour une meilleure lisibilité */
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display', serif; /* Police élégante pour le titre */
+  font-size: 3rem;
+  color: #6B8E
